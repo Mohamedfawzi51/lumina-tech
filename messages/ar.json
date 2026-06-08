@@ -1,0 +1,688 @@
+{
+  "nav": {
+    "brand": "لومينا تك",
+    "smartphones": "الهواتف الذكية",
+    "laptops": "أجهزة اللابتوب",
+    "tablets": "الأجهزة اللوحية",
+    "accessories": "الإكسسوارات",
+    "aboutUs": "من نحن",
+    "contactUs": "اتصل بنا",
+    "wishlist": "المفضلة",
+    "account": "الحساب",
+    "login": "تسجيل الدخول",
+    "more": "المزيد من الخيارات",
+    "browse": "تصفح"
+  },
+  "hero": {
+    "badge": "تقنية الجيل القادم",
+    "title": "زينيث تايتان X برو",
+    "description": "اختبر قمة الهندسة المحمولة مع تايتان X برو الجديد كلياً. قوة لا مثيل لها، شاشة سينمائية، وأول نظام عدسات متكامل بالذكاء الاصطناعي في العالم.",
+    "preorder": "اطلب مسبقاً الآن",
+    "trailer": "شاهد الإعلان"
+  },
+  "categories": {
+    "laptops": {
+      "title": "أجهزة اللابتوب",
+      "subtitle": "أطلق العنان لأقصى أداء.",
+      "explore": "استكشف"
+    },
+    "smartphones": {
+      "title": "الهواتف الذكية",
+      "explore": "استكشف"
+    },
+    "tablets": {
+      "title": "الأجهزة اللوحية",
+      "explore": "استكشف"
+    },
+    "accessories": {
+      "title": "الإكسسوارات",
+      "subtitle": "أكمل منظومتك التقنية.",
+      "explore": "استكشف"
+    }
+  },
+  "trending": {
+    "title": "الأكثر رواجاً",
+    "subtitle": "أكثر التقنيات طلباً هذا الأسبوع.",
+    "viewAll": "عرض الكل",
+    "badges": {
+      "hot": "رائج",
+      "new": "جديد"
+    },
+    "products": {
+      "keyboard": {
+        "name": "لوحة مفاتيح Matrix G7",
+        "category": "ميكانيكية بصرية",
+        "price": "١٩٩٫٠٠ $"
+      },
+      "headphones": {
+        "name": "Aero Pro Audio",
+        "category": "إلغاء الضوضاء",
+        "price": "٣٤٩٫٠٠ $"
+      },
+      "watch": {
+        "name": "لومينا ووتش 5",
+        "category": "شاشة ذكية OLED",
+        "price": "٤٩٩٫٠٠ $"
+      },
+      "camera": {
+        "name": "Optic X Zoom",
+        "category": "طقم سينمائي 4K",
+        "price": "١٬٢٩٩٫٠٠ $"
+      }
+    }
+  },
+  "bestSellers": {
+    "title": "الأكثر مبيعاً",
+    "subtitle": "الأيقونات التي لا يستغني عنها عملاؤنا.",
+    "addToCart": "أضف إلى السلة",
+    "products": {
+      "laptop": {
+        "name": "لومينا بوك إير",
+        "description": "قوة خارقة خفيفة الوزن للمبدعين.",
+        "price": "١٬٠٩٩ $"
+      },
+      "watch": {
+        "name": "زينيث ووتش إيليت",
+        "description": "حرفية فاخرة تلتقي بتتبع الصحة الذكي.",
+        "price": "٥٩٩ $"
+      },
+      "earbuds": {
+        "name": "سونيك بودز ألترا",
+        "description": "صوت نقي، صفر ضوضاء. أفضل إلغاء للضوضاء.",
+        "price": "٢٤٩ $"
+      },
+      "monitor": {
+        "name": "شاشة تايتان 32 بوصة",
+        "description": "240Hz 4K OLED. كمال بصري للاعبين.",
+        "price": "٨٩٩ $"
+      },
+      "charger": {
+        "name": "لوحة شحن Flux",
+        "description": "أسرع شحن لاسلكي. تصميم زجاجي أيقوني.",
+        "price": "٨٩ $"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "ماذا يقول خبراؤنا",
+    "items": {
+      "marcus": {
+        "quote": "لومينا تك لا تبيع منتجات فحسب؛ بل تصنع تجارب. تايتان X برو ثورة في عالم التصوير.",
+        "name": "ماركوس تشين",
+        "role": "محلل تك رادار"
+      },
+      "sarah": {
+        "quote": "جودة التصنيع في المنظومة بأكملها لا مثيل لها. كل شيء يبدو وكأنه صُمم في المستقبل.",
+        "name": "سارة ج. ويلسون",
+        "role": "مصممة رئيسية، ستوديو X"
+      },
+      "david": {
+        "quote": "أسرع شحن تعاملت معه للإلكترونيات الفاخرة. التغليف الآمن كان حلماً لعشاق التقنية.",
+        "name": "ديفيد ميلر",
+        "role": "مستثمر رأس مال جريء"
+      }
+    }
+  },
+  "newsletter": {
+    "title": "انضم إلى مستقبل التقنية",
+    "description": "احصل على وصول حصري للطلبات المسبقة والمبيعات الخاصة وأحدث الابتكارات في بريدك.",
+    "placeholder": "أدخل بريدك الإلكتروني",
+    "subscribe": "اشترك",
+    "disclaimer": "بالاشتراك، أنت توافق على سياسة الخصوصية."
+  },
+  "footer": {
+    "tagline": "نقود العصر القادم للإلكترونيات الاستهلاكية الفاخرة بدقة وشغف.",
+    "shopping": "التسوق",
+    "company": "الشركة",
+    "contact": "تواصل معنا",
+    "aboutUs": "من نحن",
+    "customerSupport": "دعم العملاء",
+    "privacyPolicy": "سياسة الخصوصية",
+    "contactUs": "اتصل بنا",
+    "shippingReturns": "الشحن والإرجاع",
+    "securePayment": "الدفع الآمن",
+    "address": "١٢٣ شارع التقنية، وادي السيليكون",
+    "city": "كاليفورنيا، الولايات المتحدة",
+    "email": "support@lumina-tech.com",
+    "phone": "+1 (800) LUMINA-T",
+    "copyright": "© ٢٠٢٤ لومينا تك بريميوم. جميع الحقوق محفوظة.",
+    "termsOfService": "شروط الخدمة",
+    "cookiePolicy": "سياسة ملفات تعريف الارتباط"
+  },
+  "language": {
+    "switch": "اللغة",
+    "select": "اختر اللغة"
+  },
+  "theme": {
+    "light": "الوضع الفاتح",
+    "dark": "الوضع الداكن",
+    "toggle": "تبديل المظهر"
+  },
+  "shop": {
+    "searchPlaceholder": "ابحث عن تقنية فاخرة...",
+    "breadcrumbs": {
+      "home": "الرئيسية",
+      "shop": "المتجر",
+      "smartphones": "الهواتف الذكية"
+    },
+    "title": "الهواتف الذكية والأجهزة المحمولة",
+    "subtitle": "اكتشف ١٢٤ جهازاً فاخراً مصمماً للمستقبل.",
+    "sort": {
+      "newest": "الترتيب: الأحدث",
+      "priceLow": "السعر: من الأقل للأعلى",
+      "priceHigh": "السعر: من الأعلى للأقل",
+      "popularity": "الأكثر شعبية"
+    },
+    "filters": {
+      "category": "الفئة",
+      "flagship": "هواتف فلاجشيب",
+      "foldables": "الهواتف القابلة للطي",
+      "gaming": "أجهزة الألعاب المحمولة",
+      "brand": "العلامة التجارية",
+      "priceRange": "نطاق السعر",
+      "priceValue": "٤٠٠$ - ١٨٠٠$",
+      "rating": "التقييم",
+      "ratingUp": "فأكثر",
+      "inStock": "المتوفر فقط"
+    },
+    "brands": {
+      "apple": "آبل",
+      "samsung": "سامسونج",
+      "google": "جوجل",
+      "nothing": "ناثينغ",
+      "xiaomi": "شاومي",
+      "sony": "سوني"
+    },
+    "quickAdd": "إضافة سريعة",
+    "badges": {
+      "new": "جديد",
+      "limited": "محدود"
+    },
+    "products": {
+      "zenithPro": {
+        "name": "زينيث برو ألترا X",
+        "specs": "Snapdragon 8 Gen 3 | 16GB RAM | 512GB",
+        "price": "١٬٢٩٩ $",
+        "reviews": "(١٢٤)"
+      },
+      "nebula": {
+        "name": "نيبولا S24 بيور",
+        "specs": "Exynos 2400 | 8GB RAM | 256GB",
+        "price": "٨٩٩ $",
+        "reviews": "(٨٦)"
+      },
+      "titanFold": {
+        "name": "تايتان فولد الجيل 5",
+        "specs": "شاشة Dynamic AMOLED 2X 7.6 بوصة | 1TB",
+        "price": "١٬٧٩٩ $",
+        "reviews": "(٢١٠)"
+      },
+      "zenithMini": {
+        "name": "زينيث ميني 4",
+        "specs": "حجم جيب | A17 Bionic | 128GB",
+        "price": "٦٤٩ $",
+        "reviews": "(٣٥٩)"
+      },
+      "aether": {
+        "name": "إيثير G1 للألعاب",
+        "specs": "تبريد سائل | 144Hz | 512GB",
+        "price": "١٬١٤٩ $",
+        "reviews": "(٩٢)"
+      },
+      "vision": {
+        "name": "فيجن برو S",
+        "specs": "عدسات Leica | شاشة 4K | 256GB",
+        "price": "٩٥٩ $",
+        "reviews": "(٦٧)"
+      }
+    }
+  },
+  "shopFooter": {
+    "tagline": "إعادة تعريف تجربة الإلكترونيات الفاخرة بتقنية متطورة وتصميم بسيط.",
+    "explore": "استكشف",
+    "audioSound": "الصوت والموسيقى",
+    "smartHome": "المنزل الذكي",
+    "support": "الدعم",
+    "helpCenter": "مركز المساعدة",
+    "warranty": "الضمان",
+    "newsletterTitle": "النشرة البريدية",
+    "newsletterSubtitle": "احصل على وصول مبكر حصري للإصدارات الجديدة.",
+    "emailPlaceholder": "بريدك الإلكتروني",
+    "join": "انضم"
+  },
+  "product": {
+    "breadcrumbs": {
+      "home": "الرئيسية",
+      "smartphones": "الهواتف الذكية",
+      "product": "لومينا X1 برو"
+    },
+    "badge": "وصل حديثاً",
+    "reviews": "(١٢٤ تقييم)",
+    "title": "لومينا X1 برو",
+    "description": "اختبر مستقبل تقنية الهاتف المحمول. يتميز بمعالج Lumina A15، وعدسات احترافية، وشاشة سلسة 120Hz مذهلة.",
+    "price": "١٬٠٩٩٫٠٠ $",
+    "originalPrice": "١٬٢٩٩٫٠٠ $",
+    "discount": "خصم ١٥٪",
+    "selectColor": "اختر اللون:",
+    "storageCapacity": "سعة التخزين",
+    "addToCart": "أضف إلى السلة",
+    "added": "تمت الإضافة!",
+    "inStock": "متوفر - الشحن خلال ٢٤ ساعة",
+    "colors": {
+      "titaniumBlue": "أزرق تيتانيوم",
+      "midnightSilver": "فضي ليلي",
+      "solarGold": "ذهبي شمسي",
+      "obsidianBlack": "أسود سبجي"
+    },
+    "storage": {
+      "128": "128GB",
+      "256": "256GB",
+      "512": "512GB",
+      "1tb": "1TB"
+    },
+    "tabs": {
+      "specifications": "المواصفات",
+      "reviews": "التقييمات",
+      "shipping": "معلومات الشحن"
+    },
+    "specs": {
+      "chip": {
+        "title": "Lumina A15",
+        "description": "محرك عصبي من الجيل القادم بمعمارية ثمانية الأنوية."
+      },
+      "display": {
+        "title": "شاشة XDR ديناميكية 6.8 بوصة",
+        "description": "معدل تحديث تكيفي 120Hz، سطوع ذروة 3000 شمعة، ومعايرة True Color."
+      },
+      "camera": {
+        "title": "مصفوفة ثلاثية 50 ميجابكسل",
+        "description": "تثبيت سينمائي متقدم وتحسين الرؤية الليلية."
+      },
+      "battery": {
+        "title": "بطارية 5000mAh",
+        "description": "حتى 48 ساعة من الاستخدام المكثف. دعم شحن HyperCharge 100W."
+      },
+      "durability": {
+        "title": "تصنيف IP68",
+        "description": "حماية كاملة من الغبار والغمر في الماء حتى 6 أمتار."
+      }
+    },
+    "relatedTitle": "قد يعجبك أيضاً",
+    "related": {
+      "buds": { "name": "لومينا بودز برو", "price": "٢٤٩٫٠٠ $" },
+      "tab": { "name": "لومينا تاب إير", "price": "٧٩٩٫٠٠ $" },
+      "book": { "name": "لومينا بوك X", "price": "١٬٥٩٩٫٠٠ $" },
+      "watch": { "name": "لومينا ووتش 3", "price": "٣٤٩٫٠٠ $" }
+    },
+    "footer": {
+      "tagline": "إعادة تعريف حدود الإلكترونيات الاستهلاكية الفاخرة بهندسة دقيقة وتصميم مدروس.",
+      "navigation": "التنقل",
+      "connect": "تواصل"
+    }
+  },
+  "auth": {
+    "headline": "مستقبل",
+    "headlineAccent": "التقنية الدقيقة.",
+    "description": "ادخل إلى منظومتك الفاخرة للحوسبة عالية الأداء، وإكسسوارات المؤسسات، ودعم لومينا تك الحصري.",
+    "trustedBy": "موثوق من أكثر من ٢٬٠٠٠ محترف تقني حول العالم.",
+    "login": {
+      "title": "مرحباً بعودتك",
+      "subtitle": "سجّل الدخول إلى محطة عملك الاحترافية.",
+      "email": "البريد المهني",
+      "emailPlaceholder": "name@company.com",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "••••••••",
+      "forgotPassword": "نسيت كلمة المرور؟",
+      "signIn": "تسجيل الدخول",
+      "orContinue": "أو تابع عبر",
+      "google": "جوجل",
+      "apple": "آبل",
+      "noAccount": "ليس لديك حساب؟",
+      "requestAccess": "اطلب الوصول"
+    },
+    "register": {
+      "title": "إنشاء حساب",
+      "subtitle": "انضم إلى شبكة لومينا تك الفاخرة اليوم.",
+      "firstName": "الاسم الأول",
+      "lastName": "اسم العائلة",
+      "email": "البريد المهني",
+      "emailPlaceholder": "name@company.com",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "٨ أحرف على الأقل",
+      "terms": "أوافق على",
+      "termsLink": "شروط الخدمة",
+      "and": "و",
+      "privacyLink": "سياسة الخصوصية",
+      "createWorkspace": "إنشاء مساحة العمل",
+      "hasAccount": "لديك حساب بالفعل؟",
+      "logIn": "تسجيل الدخول"
+    },
+    "forgot": {
+      "back": "العودة لتسجيل الدخول",
+      "title": "إعادة تعيين كلمة المرور",
+      "subtitle": "أدخل بريدك وسنرسل لك تعليمات الاسترداد.",
+      "email": "البريد المسجّل",
+      "emailPlaceholder": "name@company.com",
+      "sendLink": "إرسال رابط الاستعادة",
+      "success": "تم إرسال التعليمات! تحقق من بريدك."
+    }
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "subtitle": "راجع اختياراتك من الإلكترونيات الفاخرة.",
+    "items": {
+      "laptop": {
+        "name": "لومينا بوك برو 16",
+        "variant": "رمادي فضائي | 1TB SSD | 32GB RAM",
+        "price": "٢٬٤٩٩٫٠٠ $"
+      },
+      "headphones": {
+        "name": "زينيث ساوند V2",
+        "variant": "أسود مطفي | سلسلة الاستوديو",
+        "price": "٣٤٩٫٠٠ $"
+      }
+    },
+    "shippingNotice": "أنت مؤهل لـ",
+    "freeShipping": "شحن سريع مجاني",
+    "shippingSuffix": "لهذا الطلب.",
+    "summary": {
+      "title": "ملخص الطلب",
+      "subtotal": "المجموع الفرعي",
+      "subtotalValue": "٢٬٨٤٨٫٠٠ $",
+      "shipping": "الشحن",
+      "free": "مجاني",
+      "tax": "الضريبة المقدرة",
+      "taxValue": "٢٢٧٫٨٤ $",
+      "promoCode": "رمز الخصم",
+      "promoPlaceholder": "أدخل الرمز",
+      "apply": "تطبيق",
+      "total": "الإجمالي",
+      "totalValue": "٣٬٠٧٥٫٨٤ $",
+      "checkout": "متابعة الدفع"
+    },
+    "secureNote": "دفع آمن بتشفير SSL 256-bit. ضمان مميز لمدة سنتين على جميع الأجهزة.",
+    "empty": {
+      "title": "سلتك فارغة...",
+      "description": "يبدو أنك لم تكتشف تحفتك التقنية القادمة بعد. استكشف أحدث إلكترونياتنا الفاخرة.",
+      "continueShopping": "متابعة التسوق"
+    },
+    "footer": {
+      "tagline": "إعادة تعريف الفخامة من خلال الهندسة الدقيقة.",
+      "shop": "التسوق",
+      "services": "الخدمات",
+      "premiumWarranty": "ضمان مميز",
+      "newsletter": "النشرة البريدية",
+      "emailPlaceholder": "البريد الإلكتروني"
+    }
+  },
+  "checkout": {
+    "shipping": {
+      "title": "تفاصيل الشحن",
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "أحمد محمد",
+      "phone": "رقم الهاتف",
+      "phonePlaceholder": "+966 50 000 0000",
+      "address": "عنوان الشارع",
+      "addressPlaceholder": "١٢٣ شارع التقنية، وادي السيليكون",
+      "city": "المدينة",
+      "cityPlaceholder": "كوبرتينو",
+      "state": "الولاية/المقاطعة",
+      "statePlaceholder": "كاليفورنيا",
+      "postalCode": "الرمز البريدي",
+      "postalCodePlaceholder": "95014"
+    },
+    "payment": {
+      "title": "طريقة الدفع",
+      "creditCard": "بطاقة ائتمان",
+      "applePay": "Apple Pay",
+      "cash": "نقداً",
+      "cardNumber": "رقم البطاقة",
+      "cardNumberPlaceholder": "0000 0000 0000 0000",
+      "expiry": "تاريخ الانتهاء",
+      "expiryPlaceholder": "MM / YY",
+      "cvv": "CVV",
+      "cvvPlaceholder": "•••"
+    },
+    "summary": {
+      "title": "ملخص الطلب",
+      "subtotal": "المجموع الفرعي",
+      "subtotalValue": "٢٬٨٤٨٫٠٠ $",
+      "shipping": "الشحن",
+      "free": "مجاني",
+      "tax": "الضريبة المقدرة",
+      "taxValue": "٢١٣٫٦٠ $",
+      "total": "الإجمالي",
+      "totalValue": "٣٬٠٦١٫٦٠ $",
+      "placeOrder": "تأكيد الطلب"
+    },
+    "items": {
+      "laptop": {
+        "name": "لومينا بوك برو 16\"",
+        "variant": "1TB SSD، 32GB RAM",
+        "price": "٢٬٤٩٩٫٠٠ $"
+      },
+      "headphones": {
+        "name": "لومينا ساوند X",
+        "variant": "أسود ليلي",
+        "price": "٣٤٩٫٠٠ $"
+      }
+    },
+    "badges": {
+      "pci": "PCI DSS",
+      "ssl": "256-BIT SSL",
+      "secure": "شراء آمن"
+    },
+    "footer": {
+      "tagline": "هندسة دقيقة للرائد العصري. اكتشف مستقبل تقنية المستهلك.",
+      "shop": "التسوق",
+      "support": "الدعم",
+      "company": "الشركة"
+    }
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "tagline": "إلكترونيات فاخرة",
+    "searchPlaceholder": "ابحث في الطلبات...",
+    "nav": {
+      "overview": "نظرة عامة",
+      "orders": "سجل الطلبات",
+      "wishlist": "قائمة الأمنيات",
+      "addresses": "العناوين المحفوظة",
+      "profile": "الملف الشخصي",
+      "help": "مركز المساعدة",
+      "signOut": "تسجيل الخروج"
+    },
+    "welcome": {
+      "title": "مرحباً بعودتك، أدريان",
+      "subtitle": "لديك شحنتان تصلان هذا الأسبوع. عضوية Lumina+ نشطة حتى ديسمبر ٢٠٢٤.",
+      "orders": "الطلبات",
+      "ordersCount": "١٢",
+      "wishlist": "قائمة الأمنيات",
+      "wishlistCount": "٣٤",
+      "points": "النقاط",
+      "pointsCount": "٢٫٤ ألف"
+    },
+    "upgrade": {
+      "title": "لومينا برو ماكس",
+      "subtitle": "الطلبات المسبقة متاحة الآن. احصل على أسعار وصول مبكر حصري.",
+      "cta": "ترقية الآن"
+    },
+    "recentOrders": {
+      "title": "الطلبات الأخيرة",
+      "viewAll": "عرض كل الطلبات",
+      "columns": {
+        "orderId": "رقم الطلب",
+        "status": "الحالة",
+        "date": "التاريخ",
+        "total": "الإجمالي"
+      },
+      "items": {
+        "order1": {
+          "id": "#LT-92831",
+          "items": "منتجان",
+          "status": "تم الشحن",
+          "date": "٢٤ أكتوبر ٢٠٢٤",
+          "total": "٢٬٤٩٩٫٠٠ $"
+        },
+        "order2": {
+          "id": "#LT-92755",
+          "items": "منتج واحد",
+          "status": "تم التسليم",
+          "date": "١٢ أكتوبر ٢٠٢٤",
+          "total": "١٬١٩٩٫٠٠ $"
+        }
+      }
+    },
+    "wishlist": {
+      "title": "أبرز قائمة الأمنيات",
+      "manage": "إدارة القائمة",
+      "addToCart": "أضف إلى السلة",
+      "items": {
+        "tablet": { "name": "لومينا باد برو 13\"", "price": "١٬٠٩٩٫٠٠ $" },
+        "headphones": { "name": "سماعات Sonic ANC", "price": "٣٤٩٫٠٠ $" },
+        "watch": { "name": "زينيث ووتش S4", "price": "٢٩٩٫٠٠ $" },
+        "laptop": { "name": "لومينا بوك 16\" برو", "price": "١٬٨٩٩٫٠٠ $" }
+      }
+    },
+    "footer": {
+      "tagline": "نرتقي بأسلوب حياتك الرقمية بإلكترونيات فاخرة هندسية الدقة منذ ٢٠١٨.",
+      "shop": "التسوق",
+      "account": "الحساب",
+      "support": "الدعم",
+      "myProfile": "ملفي الشخصي",
+      "orderHistory": "سجل الطلبات",
+      "shippingDetails": "تفاصيل الشحن",
+      "privacySettings": "إعدادات الخصوصية",
+      "contactSupport": "تواصل مع الدعم",
+      "returnPolicy": "سياسة الإرجاع"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "إرثنا",
+      "title": "هندسة",
+      "titleAccent": "مستقبل",
+      "titleSuffix": "الإمكانات البشرية.",
+      "description": "وُلدت لومينا تك من رؤية واحدة: سد الفجوة بين الخيال والواقع. نحن لا نبني إلكترونيات فحسب؛ بل نصنع الأدوات التي تمكّن الجيل القادم من المبدعين والمفكرين والمستكشفين.",
+      "philosophy": "فلسفتنا",
+      "innovations": "استكشف الابتكارات"
+    },
+    "principles": {
+      "sectionLabel": "01 // القيم",
+      "title": "المبادئ الأساسية",
+      "subtitle": "أسس كل ما نصممه ونطوره ونقدمه لمجتمعنا العالمي.",
+      "precision": {
+        "title": "هندسة دقيقة",
+        "description": "نركز على أدق التفاصيل. كل منحنى ومكون وسطر برمجي مُحسَّن لأقصى أداء وعمر طويل."
+      },
+      "sustainability": {
+        "title": "ابتكار مستدام",
+        "description": "الابتكار لا يجب أن يكلّف الأرض. نستخدم مواد معاد تدويرها ولوجستيات محايدة الكربون في إنتاجنا."
+      },
+      "design": {
+        "title": "تصميم يركز على الإنسان",
+        "description": "التكنولوجيا في أفضل حالاتها عندما تختفي. نصمم واجهات تشعر كامتداد طبيعي للعقل البشري."
+      }
+    },
+    "journey": {
+      "title": "الرحلة",
+      "description": "من استوديو صغير في طوكيو إلى رائد عالمي في الإلكترونيات الفاخرة. قصتنا هي فضول لا يلين وشجاعة الفشل للأمام.",
+      "hqLabel": "المقر الرئيسي، 2024",
+      "years": "سنوات من الابتكار",
+      "patents": "براءات اختراع عالمية",
+      "milestones": {
+        "2009": "تأسست مع إطلاق نموذج هاتف لومينا ون الذكي.",
+        "2016": "توسعت في محطات العمل الفاخرة ووحدات المعالجة العصبية.",
+        "2024": "نقود السوق في حلول الأجهزة الفاخرة الصديقة للبيئة."
+      }
+    },
+    "trust": {
+      "title": "ثقة عالمية",
+      "subtitle": "معترف بنا عالمياً في التصميم والأمان والاستدامة.",
+      "iso": "معتمد ISO 27001",
+      "redDot": "جائزة Red Dot 2023",
+      "carbon": "منصة محايدة الكربون",
+      "gdpr": "متوافق مع GDPR"
+    },
+    "footer": {
+      "tagline": "نعيد تعريف معيار الإلكترونيات الفاخرة منذ 2009."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "تواصل معنا.",
+      "description": "اختبر مستقبل دعم التقنية الفاخرة. سواء كان لديك سؤال عن أحدث هواتفنا الذكية أو تحتاج مساعدة تقنية في نظام لومينا تك البيئي، خبراؤنا هنا لمساعدتك."
+    },
+    "form": {
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "أحمد محمد",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "ahmed@example.com",
+      "subject": "الموضوع",
+      "subjectPlaceholder": "كيف يمكننا مساعدتك؟",
+      "message": "الرسالة",
+      "messagePlaceholder": "أخبرنا المزيد عن استفسارك...",
+      "submit": "إرسال الرسالة",
+      "success": "تم إرسال الرسالة بنجاح."
+    },
+    "support": {
+      "emailTitle": "دعم البريد الإلكتروني",
+      "email": "support@lumina-tech.com",
+      "emailResponse": "الرد المتوقع: ساعتان",
+      "phoneTitle": "استفسار هاتفي",
+      "phone": "+1 (888) 234-LUMINA",
+      "phoneHours": "الإثنين - الجمعة، 9 ص - 6 م بتوقيت EST",
+      "liveChat": "بدء المحادثة المباشرة"
+    },
+    "hours": {
+      "title": "ساعات المتجر",
+      "weekdays": "الإثنين - الجمعة",
+      "weekdaysHours": "10:00 - 20:00",
+      "saturday": "السبت",
+      "saturdayHours": "11:00 - 18:00",
+      "sunday": "الأحد",
+      "closed": "مغلق"
+    },
+    "location": {
+      "title": "زر صالة العرض الرئيسية.",
+      "address": "وادي السيليكون، كاليفورنيا • 1200 Innovation Drive",
+      "hqTitle": "المقر العالمي",
+      "hqDescription": "اختبر مجموعتنا الكاملة من الأجهزة الذكية في بيئة غامرة وبسيطة.",
+      "directions": "احصل على الاتجاهات"
+    },
+    "footer": {
+      "tagline": "إلكترونيات استهلاكية فاخرة لرواد العصر الرقمي. مصممة بدقة، مبنية للأداء."
+    }
+  },
+  "demo": {
+    "addedToCart": "تمت إضافة {product} إلى سلتك",
+    "addedToCartGeneric": "تمت إضافة المنتج إلى السلة",
+    "addedToWishlist": "تم حفظ {product} في المفضلة",
+    "addedToWishlistGeneric": "تم الحفظ في المفضلة",
+    "removedFromWishlist": "تمت إزالة {product} من المفضلة",
+    "removedFromWishlistGeneric": "تمت الإزالة من المفضلة",
+    "removedFromCart": "تمت إزالة المنتج من السلة",
+    "newsletterSubscribed": "تم الاشتراك في النشرة الإخبارية بنجاح!",
+    "promoApplied": "تم تطبيق الرمز LUMINA10 — خصم 10%",
+    "promoEmpty": "يرجى إدخال رمز ترويجي",
+    "shareCopied": "تم نسخ رابط المتجر",
+    "categoryBrowse": "تصفح {category} — عرض جميع المنتجات",
+    "socialSignIn": "جاري الاتصال بـ {provider}...",
+    "registerSuccess": "تم إنشاء مساحة العمل بنجاح!",
+    "liveChat": "جاري توصيلك بوكيل الدعم...",
+    "upgradeInitiated": "تم فتح صفحة ترقية Lumina+",
+    "noNotifications": "لا توجد إشعارات جديدة",
+    "orderDetails": "فتح الطلب {id}...",
+    "wishlistManaged": "تم حفظ تفضيلات المفضلة",
+    "pageNavigation": "عرض الصفحة {page}",
+    "legalTerms": "شروط الخدمة — معاينة تجريبية",
+    "legalPrivacy": "سياسة الخصوصية — معاينة تجريبية",
+    "legalCookies": "سياسة ملفات تعريف الارتباط — معاينة تجريبية",
+    "customerSupport": "فتح مركز الدعم...",
+    "sortApplied": "تم الترتيب حسب {sort}",
+    "filterBrand": "تصفية حسب {brand}",
+    "filterCategory": "عرض {category}",
+    "trailerPlaying": "تشغيل إعلان المنتج...",
+    "contactSuccess": "تم إرسال الرسالة بنجاح. سنرد خلال ساعتين."
+  }
+}

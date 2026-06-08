@@ -1,0 +1,688 @@
+{
+  "nav": {
+    "brand": "LuminaTech",
+    "smartphones": "Smartphones",
+    "laptops": "Laptops",
+    "tablets": "Tablets",
+    "accessories": "Accessories",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "wishlist": "Wishlist",
+    "account": "Account",
+    "login": "Login",
+    "more": "More options",
+    "browse": "Browse"
+  },
+  "hero": {
+    "badge": "Next-Gen Technology",
+    "title": "The Zenith Titan X Pro",
+    "description": "Experience the pinnacle of mobile engineering with the all-new Titan X Pro. Unmatched power, cinematic display, and the world's first AI-integrated lens system.",
+    "preorder": "Pre-order now",
+    "trailer": "Watch Trailer"
+  },
+  "categories": {
+    "laptops": {
+      "title": "Laptops",
+      "subtitle": "Unleash peak performance.",
+      "explore": "Explore"
+    },
+    "smartphones": {
+      "title": "Smartphones",
+      "explore": "Explore"
+    },
+    "tablets": {
+      "title": "Tablets",
+      "explore": "Explore"
+    },
+    "accessories": {
+      "title": "Accessories",
+      "subtitle": "Complete your ecosystem.",
+      "explore": "Explore"
+    }
+  },
+  "trending": {
+    "title": "Trending Now",
+    "subtitle": "Most sought-after tech this week.",
+    "viewAll": "View all",
+    "badges": {
+      "hot": "Hot",
+      "new": "New"
+    },
+    "products": {
+      "keyboard": {
+        "name": "Matrix G7 Keyboard",
+        "category": "Optical Mechanical",
+        "price": "$199.00"
+      },
+      "headphones": {
+        "name": "Aero Pro Audio",
+        "category": "Noise Canceling",
+        "price": "$349.00"
+      },
+      "watch": {
+        "name": "Lumina Watch 5",
+        "category": "OLED Smart Display",
+        "price": "$499.00"
+      },
+      "camera": {
+        "name": "Optic X Zoom",
+        "category": "4K Cinematic Kit",
+        "price": "$1,299.00"
+      }
+    }
+  },
+  "bestSellers": {
+    "title": "Best Sellers",
+    "subtitle": "The icons our customers can't live without.",
+    "addToCart": "Add to Cart",
+    "products": {
+      "laptop": {
+        "name": "LuminaBook Air",
+        "description": "The ultimate lightweight powerhouse for creators.",
+        "price": "$1,099"
+      },
+      "watch": {
+        "name": "Zenith Watch Elite",
+        "description": "Luxury craftsmanship meets smart health tracking.",
+        "price": "$599"
+      },
+      "earbuds": {
+        "name": "Sonic Buds Ultra",
+        "description": "Pure sound, zero noise. Industry-leading ANC.",
+        "price": "$249"
+      },
+      "monitor": {
+        "name": "Titan 32\" Display",
+        "description": "240Hz 4K OLED. Visual perfection for gamers.",
+        "price": "$899"
+      },
+      "charger": {
+        "name": "Flux Charge Pad",
+        "description": "Fastest wireless charging. Iconic glass design.",
+        "price": "$89"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Experts Say",
+    "items": {
+      "marcus": {
+        "quote": "LuminaTech doesn't just sell products; they curate experiences. The Titan X Pro is a revelation in photography.",
+        "name": "Marcus Chen",
+        "role": "Tech Radar Analyst"
+      },
+      "sarah": {
+        "quote": "The build quality across the entire ecosystem is unparalleled. Everything feels like it was designed in the future.",
+        "name": "Sarah J. Wilson",
+        "role": "Lead Designer, Studio X"
+      },
+      "david": {
+        "quote": "Fastest shipping I've ever experienced for premium electronics. The secure packaging was a tech lover's dream.",
+        "name": "David Miller",
+        "role": "Venture Capitalist"
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Join the Future of Tech",
+    "description": "Get exclusive access to pre-orders, private sales, and the latest innovations in your inbox.",
+    "placeholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "disclaimer": "By subscribing, you agree to our Privacy Policy."
+  },
+  "footer": {
+    "tagline": "Pioneering the next era of high-end consumer electronics with precision and passion.",
+    "shopping": "Shopping",
+    "company": "Company",
+    "contact": "Contact",
+    "aboutUs": "About Us",
+    "customerSupport": "Customer Support",
+    "privacyPolicy": "Privacy Policy",
+    "contactUs": "Contact Us",
+    "shippingReturns": "Shipping & Returns",
+    "securePayment": "Secure Payment",
+    "address": "123 Tech Avenue, Silicon Valley",
+    "city": "California, USA",
+    "email": "support@lumina-tech.com",
+    "phone": "+1 (800) LUMINA-T",
+    "copyright": "© 2024 LuminaTech Premium. All rights reserved.",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "language": {
+    "switch": "Language",
+    "select": "Select language"
+  },
+  "theme": {
+    "light": "Light mode",
+    "dark": "Dark mode",
+    "toggle": "Toggle theme"
+  },
+  "shop": {
+    "searchPlaceholder": "Search premium tech...",
+    "breadcrumbs": {
+      "home": "Home",
+      "shop": "Shop",
+      "smartphones": "Smartphones"
+    },
+    "title": "Smartphones & Handhelds",
+    "subtitle": "Discover 124 premium devices engineered for the future.",
+    "sort": {
+      "newest": "Sort: Newest",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "popularity": "Popularity"
+    },
+    "filters": {
+      "category": "Category",
+      "flagship": "Flagship Phones",
+      "foldables": "Foldables",
+      "gaming": "Gaming Handhelds",
+      "brand": "Brand",
+      "priceRange": "Price Range",
+      "priceValue": "$400 - $1800",
+      "rating": "Rating",
+      "ratingUp": "& Up",
+      "inStock": "In Stock Only"
+    },
+    "brands": {
+      "apple": "Apple",
+      "samsung": "Samsung",
+      "google": "Google",
+      "nothing": "Nothing",
+      "xiaomi": "Xiaomi",
+      "sony": "Sony"
+    },
+    "quickAdd": "Quick Add",
+    "badges": {
+      "new": "New",
+      "limited": "Limited"
+    },
+    "products": {
+      "zenithPro": {
+        "name": "Zenith Pro Ultra X",
+        "specs": "Snapdragon 8 Gen 3 | 16GB RAM | 512GB",
+        "price": "$1,299",
+        "reviews": "(124)"
+      },
+      "nebula": {
+        "name": "Nebula S24 Pure",
+        "specs": "Exynos 2400 | 8GB RAM | 256GB",
+        "price": "$899",
+        "reviews": "(86)"
+      },
+      "titanFold": {
+        "name": "Titan Fold Gen 5",
+        "specs": "7.6\" Dynamic AMOLED 2X | 1TB SSD",
+        "price": "$1,799",
+        "reviews": "(210)"
+      },
+      "zenithMini": {
+        "name": "Zenith Mini 4",
+        "specs": "Pocket-sized | A17 Bionic | 128GB",
+        "price": "$649",
+        "reviews": "(359)"
+      },
+      "aether": {
+        "name": "Aether G1 Gaming",
+        "specs": "Liquid Cooled | 144Hz | 512GB",
+        "price": "$1,149",
+        "reviews": "(92)"
+      },
+      "vision": {
+        "name": "Vision Pro S",
+        "specs": "Leica Optics | 4K Display | 256GB",
+        "price": "$959",
+        "reviews": "(67)"
+      }
+    }
+  },
+  "shopFooter": {
+    "tagline": "Redefining the premium electronics experience with cutting-edge technology and minimalist design.",
+    "explore": "Explore",
+    "audioSound": "Audio & Sound",
+    "smartHome": "Smart Home",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "warranty": "Warranty",
+    "newsletterTitle": "Newsletter",
+    "newsletterSubtitle": "Get exclusive early access to new releases.",
+    "emailPlaceholder": "Your email",
+    "join": "Join"
+  },
+  "product": {
+    "breadcrumbs": {
+      "home": "Home",
+      "smartphones": "Smartphones",
+      "product": "Lumina X1 Pro"
+    },
+    "badge": "NEW ARRIVAL",
+    "reviews": "(124 Reviews)",
+    "title": "Lumina X1 Pro",
+    "description": "Experience the future of mobile technology. Featuring the A15 Lumina Chip, Pro-Grade Optics, and a stunning 120Hz Fluid Display.",
+    "price": "$1,099.00",
+    "originalPrice": "$1,299.00",
+    "discount": "-15% OFF",
+    "selectColor": "Select Color:",
+    "storageCapacity": "Storage Capacity",
+    "addToCart": "Add to Cart",
+    "added": "Added!",
+    "inStock": "In Stock - Ships within 24 hours",
+    "colors": {
+      "titaniumBlue": "Titanium Blue",
+      "midnightSilver": "Midnight Silver",
+      "solarGold": "Solar Gold",
+      "obsidianBlack": "Obsidian Black"
+    },
+    "storage": {
+      "128": "128GB",
+      "256": "256GB",
+      "512": "512GB",
+      "1tb": "1TB"
+    },
+    "tabs": {
+      "specifications": "Specifications",
+      "reviews": "Reviews",
+      "shipping": "Shipping Info"
+    },
+    "specs": {
+      "chip": {
+        "title": "Lumina A15",
+        "description": "Next-gen neural engine with octa-core performance architecture."
+      },
+      "display": {
+        "title": "6.8\" XDR Dynamic Display",
+        "description": "Adaptive 120Hz refresh rate, 3000 nits peak brightness, and True Color calibration."
+      },
+      "camera": {
+        "title": "Triple 50MP Array",
+        "description": "Advanced cinematic stabilization and night vision enhancement."
+      },
+      "battery": {
+        "title": "5000mAh Battery",
+        "description": "Up to 48 hours of heavy usage. 100W HyperCharge support."
+      },
+      "durability": {
+        "title": "IP68 Rated",
+        "description": "Complete protection against dust and water immersion up to 6 meters."
+      }
+    },
+    "relatedTitle": "You might also like",
+    "related": {
+      "buds": { "name": "Lumina Buds Pro", "price": "$249.00" },
+      "tab": { "name": "Lumina Tab Air", "price": "$799.00" },
+      "book": { "name": "Lumina Book X", "price": "$1,599.00" },
+      "watch": { "name": "Lumina Watch 3", "price": "$349.00" }
+    },
+    "footer": {
+      "tagline": "Redefining the boundaries of premium consumer electronics with precision engineering and thoughtful design.",
+      "navigation": "Navigation",
+      "connect": "Connect"
+    }
+  },
+  "auth": {
+    "headline": "The Future of",
+    "headlineAccent": "Precision Tech.",
+    "description": "Access your premium ecosystem for high-performance computing, enterprise accessories, and exclusive LuminaTech priority support.",
+    "trustedBy": "Trusted by 2,000+ tech professionals worldwide.",
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Log in to your professional workstation.",
+      "email": "Work Email",
+      "emailPlaceholder": "name@company.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign In",
+      "orContinue": "OR CONTINUE WITH",
+      "google": "Google",
+      "apple": "Apple",
+      "noAccount": "Don't have an account?",
+      "requestAccess": "Request Access"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join the premium LuminaTech network today.",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Work Email",
+      "emailPlaceholder": "name@company.com",
+      "password": "Password",
+      "passwordPlaceholder": "Min. 8 characters",
+      "terms": "I agree to the",
+      "termsLink": "Terms of Service",
+      "and": "and",
+      "privacyLink": "Privacy Policy",
+      "createWorkspace": "Create Workspace",
+      "hasAccount": "Already a member?",
+      "logIn": "Log In"
+    },
+    "forgot": {
+      "back": "Back to login",
+      "title": "Reset Password",
+      "subtitle": "Enter your email and we'll send you recovery instructions.",
+      "email": "Registered Email",
+      "emailPlaceholder": "name@company.com",
+      "sendLink": "Send Reset Link",
+      "success": "Reset instructions sent! Check your inbox."
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "subtitle": "Review your selection of premium electronics.",
+    "items": {
+      "laptop": {
+        "name": "LuminaBook Pro 16",
+        "variant": "Space Gray | 1TB SSD | 32GB RAM",
+        "price": "$2,499.00"
+      },
+      "headphones": {
+        "name": "Zenith Sound V2",
+        "variant": "Matte Black | Studio Series",
+        "price": "$349.00"
+      }
+    },
+    "shippingNotice": "You qualify for",
+    "freeShipping": "Free Express Shipping",
+    "shippingSuffix": "on this order.",
+    "summary": {
+      "title": "Order Summary",
+      "subtotal": "Subtotal",
+      "subtotalValue": "$2,848.00",
+      "shipping": "Shipping",
+      "free": "Free",
+      "tax": "Estimated Tax",
+      "taxValue": "$227.84",
+      "promoCode": "Promo Code",
+      "promoPlaceholder": "Enter code",
+      "apply": "Apply",
+      "total": "Total",
+      "totalValue": "$3,075.84",
+      "checkout": "Proceed to Checkout"
+    },
+    "secureNote": "Secure 256-bit SSL encrypted checkout. Premium 2-year warranty included on all tech devices.",
+    "empty": {
+      "title": "Your cart is echoing...",
+      "description": "Looks like you haven't discovered your next masterpiece yet. Explore our latest premium electronics.",
+      "continueShopping": "Continue Shopping"
+    },
+    "footer": {
+      "tagline": "Redefining luxury through precision engineering.",
+      "shop": "Shop",
+      "services": "Services",
+      "premiumWarranty": "Premium Warranty",
+      "newsletter": "Newsletter",
+      "emailPlaceholder": "Email address"
+    }
+  },
+  "checkout": {
+    "shipping": {
+      "title": "Shipping Details",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "John Doe",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "address": "Street Address",
+      "addressPlaceholder": "123 Tech Avenue, Silicon Valley",
+      "city": "City",
+      "cityPlaceholder": "Cupertino",
+      "state": "State/Province",
+      "statePlaceholder": "California",
+      "postalCode": "Postal Code",
+      "postalCodePlaceholder": "95014"
+    },
+    "payment": {
+      "title": "Payment Method",
+      "creditCard": "Credit Card",
+      "applePay": "Apple Pay",
+      "cash": "Cash",
+      "cardNumber": "Card Number",
+      "cardNumberPlaceholder": "0000 0000 0000 0000",
+      "expiry": "Expiry Date",
+      "expiryPlaceholder": "MM / YY",
+      "cvv": "CVV",
+      "cvvPlaceholder": "•••"
+    },
+    "summary": {
+      "title": "Order Summary",
+      "subtotal": "Subtotal",
+      "subtotalValue": "$2,848.00",
+      "shipping": "Shipping",
+      "free": "Free",
+      "tax": "Estimated Tax",
+      "taxValue": "$213.60",
+      "total": "Total",
+      "totalValue": "$3,061.60",
+      "placeOrder": "Place Order"
+    },
+    "items": {
+      "laptop": {
+        "name": "LuminaBook Pro 16\"",
+        "variant": "1TB SSD, 32GB RAM",
+        "price": "$2,499.00"
+      },
+      "headphones": {
+        "name": "LuminaSound X",
+        "variant": "Midnight Black",
+        "price": "$349.00"
+      }
+    },
+    "badges": {
+      "pci": "PCI DSS",
+      "ssl": "256-BIT SSL",
+      "secure": "Secure Buy"
+    },
+    "footer": {
+      "tagline": "Precision engineering for the modern pioneer. Discover the future of consumer technology.",
+      "shop": "Shop",
+      "support": "Support",
+      "company": "Company"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "tagline": "Premium Electronics",
+    "searchPlaceholder": "Search orders...",
+    "nav": {
+      "overview": "Overview",
+      "orders": "Order History",
+      "wishlist": "Wishlist",
+      "addresses": "Saved Addresses",
+      "profile": "Profile",
+      "help": "Help Center",
+      "signOut": "Sign Out"
+    },
+    "welcome": {
+      "title": "Welcome back, Adrian",
+      "subtitle": "You have 2 shipments arriving this week. Your Lumina+ membership is active until Dec 2024.",
+      "orders": "Orders",
+      "ordersCount": "12",
+      "wishlist": "Wishlist",
+      "wishlistCount": "34",
+      "points": "Points",
+      "pointsCount": "2.4k"
+    },
+    "upgrade": {
+      "title": "Lumina Pro Max",
+      "subtitle": "Pre-orders are now live. Get exclusive early access pricing.",
+      "cta": "Upgrade Now"
+    },
+    "recentOrders": {
+      "title": "Recent Orders",
+      "viewAll": "View All Orders",
+      "columns": {
+        "orderId": "Order ID",
+        "status": "Status",
+        "date": "Date",
+        "total": "Total"
+      },
+      "items": {
+        "order1": {
+          "id": "#LT-92831",
+          "items": "2 Items",
+          "status": "Shipped",
+          "date": "Oct 24, 2024",
+          "total": "$2,499.00"
+        },
+        "order2": {
+          "id": "#LT-92755",
+          "items": "1 Item",
+          "status": "Delivered",
+          "date": "Oct 12, 2024",
+          "total": "$1,199.00"
+        }
+      }
+    },
+    "wishlist": {
+      "title": "Wishlist Highlights",
+      "manage": "Manage List",
+      "addToCart": "Add to Cart",
+      "items": {
+        "tablet": { "name": "LuminaPad Pro 13\"", "price": "$1,099.00" },
+        "headphones": { "name": "Sonic ANC Headphones", "price": "$349.00" },
+        "watch": { "name": "Zenith Watch S4", "price": "$299.00" },
+        "laptop": { "name": "LuminaBook 16\" Pro", "price": "$1,899.00" }
+      }
+    },
+    "footer": {
+      "tagline": "Elevating your digital lifestyle with precision-engineered premium electronics since 2018.",
+      "shop": "Shop",
+      "account": "Account",
+      "support": "Support",
+      "myProfile": "My Profile",
+      "orderHistory": "Order History",
+      "shippingDetails": "Shipping Details",
+      "privacySettings": "Privacy Settings",
+      "contactSupport": "Contact Support",
+      "returnPolicy": "Return Policy"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Our Legacy",
+      "title": "Engineering the",
+      "titleAccent": "Future",
+      "titleSuffix": "of Human Potential.",
+      "description": "LuminaTech was born from a singular vision: to bridge the gap between imagination and reality. We don't just build electronics; we craft the tools that empower the next generation of creators, thinkers, and explorers.",
+      "philosophy": "Our Philosophy",
+      "innovations": "View Innovations"
+    },
+    "principles": {
+      "sectionLabel": "01 // Values",
+      "title": "Core Principles",
+      "subtitle": "The foundations of everything we design, develop, and deliver to our global community.",
+      "precision": {
+        "title": "Precision Engineering",
+        "description": "We obsess over the micron. Every curve, component, and line of code is optimized for peak performance and longevity."
+      },
+      "sustainability": {
+        "title": "Sustainable Innovation",
+        "description": "Innovation shouldn't cost the Earth. We utilize recycled materials and carbon-neutral logistics to power our production."
+      },
+      "design": {
+        "title": "Human-Centric Design",
+        "description": "Technology is at its best when it disappears. We create interfaces that feel like natural extensions of the human mind."
+      }
+    },
+    "journey": {
+      "title": "The Journey",
+      "description": "From a small studio in Tokyo to a global leader in high-end electronics. Our story is one of relentless curiosity and the courage to fail forward.",
+      "hqLabel": "Headquarters, 2024",
+      "years": "Years of Innovation",
+      "patents": "Global Patents",
+      "milestones": {
+        "2009": "Founded with the launch of the Lumina One smartphone prototype.",
+        "2016": "Expanded into premium workstations and neural processing units.",
+        "2024": "Leading the market in eco-conscious luxury hardware solutions."
+      }
+    },
+    "trust": {
+      "title": "Global Trust",
+      "subtitle": "Recognized worldwide for excellence in design, security, and sustainability.",
+      "iso": "ISO 27001 Certified",
+      "redDot": "Red Dot Award '23",
+      "carbon": "Carbon Neutral Plt",
+      "gdpr": "GDPR Compliant"
+    },
+    "footer": {
+      "tagline": "Redefining the standard of premium electronics since 2009."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in touch.",
+      "description": "Experience the future of premium tech support. Whether you have a question about our latest smartphones or need technical assistance with your LuminaTech ecosystem, our experts are here to help."
+    },
+    "form": {
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can we help?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us more about your inquiry...",
+      "submit": "Send Message",
+      "success": "Message sent successfully."
+    },
+    "support": {
+      "emailTitle": "Email Support",
+      "email": "support@lumina-tech.com",
+      "emailResponse": "Expected response: 2 hours",
+      "phoneTitle": "Phone Inquiry",
+      "phone": "+1 (888) 234-LUMINA",
+      "phoneHours": "Mon-Fri, 9am - 6pm EST",
+      "liveChat": "Launch Live Chat"
+    },
+    "hours": {
+      "title": "Store Hours",
+      "weekdays": "Monday - Friday",
+      "weekdaysHours": "10:00 - 20:00",
+      "saturday": "Saturday",
+      "saturdayHours": "11:00 - 18:00",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    },
+    "location": {
+      "title": "Visit our flagship showroom.",
+      "address": "Silicon Valley, CA • 1200 Innovation Drive",
+      "hqTitle": "Global HQ",
+      "hqDescription": "Experience our full range of smart devices in an immersive, minimalist environment.",
+      "directions": "Get Directions"
+    },
+    "footer": {
+      "tagline": "Premium consumer electronics for the digital vanguard. Designed with precision, built for performance."
+    }
+  },
+  "demo": {
+    "addedToCart": "{product} added to your cart",
+    "addedToCartGeneric": "Item added to your cart",
+    "addedToWishlist": "{product} saved to wishlist",
+    "addedToWishlistGeneric": "Saved to wishlist",
+    "removedFromWishlist": "{product} removed from wishlist",
+    "removedFromWishlistGeneric": "Removed from wishlist",
+    "removedFromCart": "Item removed from cart",
+    "newsletterSubscribed": "Successfully subscribed to our newsletter!",
+    "promoApplied": "Promo code LUMINA10 applied — 10% off",
+    "promoEmpty": "Please enter a promo code",
+    "shareCopied": "Store link copied to clipboard",
+    "categoryBrowse": "Browsing {category} — showing all products",
+    "socialSignIn": "Connecting to {provider}...",
+    "registerSuccess": "Workspace created successfully!",
+    "liveChat": "Connecting you to a support agent...",
+    "upgradeInitiated": "Lumina+ upgrade checkout opened",
+    "noNotifications": "You're all caught up — no new notifications",
+    "orderDetails": "Opening order {id}...",
+    "wishlistManaged": "Wishlist preferences saved",
+    "pageNavigation": "Showing page {page}",
+    "legalTerms": "Terms of Service — demo preview",
+    "legalPrivacy": "Privacy Policy — demo preview",
+    "legalCookies": "Cookie Policy — demo preview",
+    "customerSupport": "Opening support center...",
+    "sortApplied": "Sorted by {sort}",
+    "filterBrand": "Filtering by {brand}",
+    "filterCategory": "Showing {category}",
+    "trailerPlaying": "Playing product trailer...",
+    "contactSuccess": "Message sent successfully. We'll reply within 2 hours."
+  }
+}
